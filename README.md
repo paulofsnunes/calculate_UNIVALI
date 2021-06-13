@@ -4,4 +4,4 @@
 
 #### As ferramentas utilizadas foram, HTML, CSS e JavaScript.
 
-<a target="_blank" href="https://paulofsnunes.github.io/calculate_UNIVALI/">Calculadora</a>
+<a href="https://paulofsnunes.github.io/calculate_UNIVALI/" target="_blank" >Calculadora</a>
